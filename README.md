@@ -1,6 +1,6 @@
 # case_study_hw
 
-# Tenticle Solutions
+# Tentacle Solutions
 
 ## Overview and Origin
 
